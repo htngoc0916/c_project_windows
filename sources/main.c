@@ -18,7 +18,7 @@ int main() {
     while (flag) {
         OnMenu();
 
-        printf("메뉴를 선택하세요: ");
+        printf("메뉴를 선택하세요 : ");
         scanf("%d", &options);
         getchar();
         switch (options) {
