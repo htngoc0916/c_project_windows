@@ -18,7 +18,7 @@ int main() {
     while (flag) {
         OnMenu();
 
-        printf("¸Ş´º¸¦ ¼±ÅÃÇÏ¼¼¿ä : ");
+        printf("ë©”ë‰´ë¥¼ ì„ íƒí•˜ì„¸ìš”. : ");
         scanf("%d", &options);
         getchar();
         switch (options) {
